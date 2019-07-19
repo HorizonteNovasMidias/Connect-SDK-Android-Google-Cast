@@ -15,8 +15,8 @@ import org.robolectric.RobolectricTestRunner;
 import org.robolectric.annotation.Config;
 
 import android.content.Context;
-import android.support.v7.media.MediaRouteSelector;
-import android.support.v7.media.MediaRouter;
+import androidx.v7.media.MediaRouteSelector;
+import androidx.v7.media.MediaRouter;
 
 import com.connectsdk.discovery.DiscoveryProviderListener;
 import com.connectsdk.discovery.provider.CastDiscoveryProvider;
